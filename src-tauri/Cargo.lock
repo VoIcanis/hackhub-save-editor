@@ -1365,6 +1365,19 @@ dependencies = [
 ]
 
 [[package]]
+name = "hackhub_save_editor"
+version = "0.1.0"
+dependencies = [
+ "flate2",
+ "serde",
+ "serde_json",
+ "tauri",
+ "tauri-build",
+ "tauri-plugin-dialog",
+ "tauri-plugin-opener",
+]
+
+[[package]]
 name = "hashbrown"
 version = "0.12.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1408,19 +1421,6 @@ name = "hex"
 version = "0.4.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "7f24254aa9a54b5c858eaee2f5bccdb46aaf0e486a595ed5fd8f86ba55232a70"
-
-[[package]]
-name = "hhsv"
-version = "0.1.0"
-dependencies = [
- "flate2",
- "serde",
- "serde_json",
- "tauri",
- "tauri-build",
- "tauri-plugin-dialog",
- "tauri-plugin-opener",
-]
 
 [[package]]
 name = "html5ever"
