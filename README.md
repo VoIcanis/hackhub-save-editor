@@ -1,7 +1,7 @@
 # HackHub Save Editor
 
-![License](https://img.shields.io/github/license/VoIcanis/hackhub-save-editor?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
-[![Latest Release](https://img.shields.io/github/v/release/VoIcanis/hackhub-save-editor?style=for-the-badge)](https://github.com/VoIcanis/hackhub-save-editor/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/VoIcanis/hackhub-save-editor?style=for-the-badge)](https://github.com/VoIcanis/hackhub-save-editor/releases/latest) ![License](https://img.shields.io/github/license/VoIcanis/hackhub-save-editor?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
 
 ---
 
